@@ -2,10 +2,10 @@
 
 This repository contains four items required for the course project:
 
-* README.md
+* README.md (this file)
 * Codebook.md
 * run_analysis.R
-* tidy.txt (s the output data set)
+* tidy.txt
 
 ## Codebook.md
 
